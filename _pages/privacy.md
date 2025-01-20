@@ -4,57 +4,78 @@ title: Privacy
 include_in_header: false
 ---
 
-**Last updated**  
-August 1 2019
-
 # Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+**Effective Date:** January 20, 2025
 
-<br>
+**My Aquarium Guide** ("the App") is committed to protecting your privacy. This Privacy Policy outlines how we collect, use, and protect your information when you use our iOS application.
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
+## 1. Information We Collect
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+### 1.1. Personal Information
 
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+We may collect personal information such as your name, email address, or other contact details only if you choose to provide them (e.g., when contacting support or signing up for optional features).
 
-<br>
+### 1.2. Non-Personal Information
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+We automatically collect non-personal information, including but not limited to:
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
+* Device type and operating system.
 
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+* Usage statistics, such as app usage patterns and features accessed.
 
-<br>
+* Language preferences and location data (if enabled).
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
+* App crash reports and error logs
 
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
+## 2. How We Use Your Information
 
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+We use the information we collect to:
 
-<br>
+* Provide and improve the App's features and functionality.
 
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
+* Respond to user inquiries and provide support.
 
-<br>
+* Analyze usage trends to enhance user experience.
 
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+* Fulfill legal and regulatory obligations.
+
+## 3. Sharing Your Information
+
+We do not sell, trade, or rent your personal information to third parties. However, we may share your information in the following cases:
+
+* **With Service Providers:** We may share data with third-party services (e.g., AI or cloud providers) that help us operate and improve the App.
+
+* **Legal Requirements:** We may disclose information if required by law or to protect the rights, property, or safety of My Aquarium Guide, our users, or others.
+
+## 4. Data Storage and Security
+
+We implement industry-standard security measures to protect your information. However, no method of electronic storage or transmission over the internet is completely secure. While we strive to use commercially acceptable means to protect your data, we cannot guarantee absolute security.
+
+## 5. Your Choices
+
+### 5.1. Opting Out
+
+You can choose not to provide personal information. However, this may limit your access to certain features.
+
+### 5.2. Managing Permissions
+
+You can manage or revoke app permissions (e.g., location, microphone) in your device’s settings.
+
+## 6. Children’s Privacy
+
+The App is not intended for children under the age of 13. We do not knowingly collect personal information from children. If you believe a child has provided us with personal information, please contact us, and we will delete the information.
+
+## 7. Third-Party Links
+
+The App may include links to third-party websites or services. We are not responsible for the privacy practices of these third parties. We encourage you to review their privacy policies.
+
+## 8. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Any changes will be posted in the App and will take effect immediately upon posting. Your continued use of the App constitutes your acceptance of the updated policy.
+
+## 9. Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at:
+
+info@myaquariumguide.com
